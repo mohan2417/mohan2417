@@ -41,3 +41,8 @@
   - **Frontend:** HTML, CSS, JavaScript  
 
 
+## 🎯 Achievements & Involvements
+
+- 🤝 **Volunteer:** Supported in *Yi-Bhishma Hunt Events* by providing valuable contributions.   
+- 📄 **Research Presentation:** Presented a paper entitled *“IoT Based Noise Level Monitoring System”* at the *International Conference on Recent Trends in ICRTCCB* organized by the Department of Computer Science and Business System and VEI Technologies.
+- - 🛡️ **Participant:** Attended the *National Cyber Security Summit 2024*.   
