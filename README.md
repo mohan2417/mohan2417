@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohan2417](https://github.com/mohan2417)
 
-- 💬 Ask me about **java , java springboot,Angular**
+- 💬 Ask me about **java , java springboot,Angular,Python,Postresql**
 
 - 📫 How to reach me **mohan2492003@gmail.com**
 
