@@ -14,7 +14,7 @@
 - 📫 How to reach me **mohan2492003@gmail.com**
 - ### 🌐 Portfolio
 Check out my personal portfolio to explore my projects and achievements:  
-👉 **[https://mohan2417.github.io](https://mohan2417.github.io/Mohan_portfolio/)**  
+👉 **[https://mohan2417.github.io/Mohan_portfolio/](https://mohan2417.github.io/Mohan_portfolio/)**  
 *(Replace this link if your portfolio URL is different.)*
 
 
