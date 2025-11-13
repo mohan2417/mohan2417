@@ -15,7 +15,7 @@
 - ### 🌐 Portfolio
 Check out my personal portfolio to explore my projects and achievements:  
 👉 **[https://mohan2417.github.io/Mohan_portfolio/](https://mohan2417.github.io/Mohan_portfolio/)**  
-*(Replace this link if your portfolio URL is different.)*
+
 
 
 <h3 align="left">Connect with me:</h3>
