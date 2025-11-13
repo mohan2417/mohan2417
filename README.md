@@ -12,6 +12,11 @@
 - 💬 Ask me about **java , java springboot,Angular,Python,Postresql**
 
 - 📫 How to reach me **mohan2492003@gmail.com**
+- ### 🌐 Portfolio
+Check out my personal portfolio to explore my projects and achievements:  
+👉 **[https://mohan2417.github.io](https://mohan2417.github.io/Mohan_portfolio/)**  
+*(Replace this link if your portfolio URL is different.)*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
